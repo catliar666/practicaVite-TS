@@ -1,4 +1,4 @@
-import { Convert, Activity } from "./utils/activity";
+import { Activity } from "./utils/activity";
 
 const baseEndpoint = 'http://bored.api.lewagon.com/api/activity';
 const endpointImagenes = 'https://api.pexels.com/v1/search?query=';
