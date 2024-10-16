@@ -1,6 +1,6 @@
 import { Activity } from "./utils/activity";
 
-const baseEndpoint = 'http://bored.api.lewagon.com/api/activity';
+const baseEndpoint = 'https://bored.api.lewagon.com/api/activity';
 const endpointImagenes = 'https://api.pexels.com/v1/search?query=';
 const apiKey = 'OgAtblPfmaO5T2a5FqJfkL4dXjbfX7LpAohSgKNhRBy4SMyhlHbjVSRz';
 const tarjeta = document.getElementById("informacion");
